@@ -1,0 +1,169 @@
+* {
+  font-family: "Inter", sans-serif;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.aa {
+  padding-right: 31px !important;
+}
+
+.footer {
+  background-color: rgb(240, 243, 242) !important;
+}
+
+.dropdown-menu a:hover {
+  background-color: #f1f1f1;
+}
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.abd {
+  font-family: "Inter", sans-serif;
+  width: 64px;
+  font-size: 13px;
+}
+
+.tt {
+  background-image: url(slide-1.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 85vh;
+}
+
+.swiper-slide {
+  height: 30vh;
+}
+.card:hover {
+  border-color: green;
+}
+.caps {
+  width: 55%;
+  font-size: 21px;
+  font-weight: 600;
+}
+
+.popular {
+  top: 66%;
+  left: 27%;
+}
+.stars {
+  width: 75%;
+  font-size: 12px;
+}
+.haldiram {
+  font-weight: 700;
+  font-size: 13px;
+}
+.starss {
+  font-size: 12px;
+}
+.shaha .shah {
+  z-index: -1;
+}
+.shaha:hover .shah {
+  z-index: 1;
+}
+.products {
+  background-color: rgb(10, 173, 10);
+  border-radius: 6px;
+}
+.snack {
+  color: rgb(10, 173, 10);
+}
+.page i {
+  font-size: 8px;
+}
+.side {
+  background-color: rgb(10, 173, 10) !important;
+}
+.cart h6 {
+  font-size: 14px !important;
+  font-weight: 500;
+}
+.sells h3 {
+  font-size: 28px;
+}
+.daily {
+  background-color: rgb(10, 173, 10) !important;
+}
+.ctrl h6 {
+  font-size: 14px;
+  font-weight: normal;
+}
+.shift {
+  background-color: rgb(10, 173, 10) !important;
+}
+.grocery i {
+  color: rgb(10, 173, 10);
+  font-weight: lighter;
+}
+.grocery h5 {
+  font-size: 18px;
+  font-weight: bold;
+}
+.footer {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 22px;
+}
+.footer h5 {
+  font-size: 14px;
+  font-weight: 600;
+}
+.power{
+    color:rgb(10, 173, 10) ;
+}
+.end:hover i{
+     color:rgb(10, 173, 10) !important;
+}
+
+ .fn{
+    font-size: 14px;
+    font-weight: normal;
+ }
+ .detail{
+  font-size: 14px;
+  font-weight: 600;
+ }
+.customer{
+  font-size: 12px;
+}
+.lock{
+  font-size: 14px;
+  font-weight: 600;
+}
+.alt{
+  font-size: 14px;
+}
+.prt{
+  font-size: 14px;
+  font-weight: 500;
+}
+.aria{
+  font-size: 14px;
+  font-weight: 500;
+}
+.end{
+  font-size: 14px;
+  font-weight: 500;
+}
+.back{
+  font-size: 55px;
+}
+.rabi{
+  bottom: 28%;
+  left: 85%;
+}
+.active li a:hover{
+   color:rgb(10, 173, 10) !important;
+}
+/* @media (max-width: 786px) {
+   .virat{
+    width: 10%;
+   }
+} */
