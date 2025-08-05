@@ -162,8 +162,12 @@
 .active li a:hover{
    color:rgb(10, 173, 10) !important;
 }
-/* @media (max-width: 786px) {
-   .virat{
-    width: 10%;
-   }
-} */
+.stores span{
+  background-color: rgba(128, 128, 128, 0.185);
+}
+.title:hover {
+     color:rgb(10, 173, 10) !important;
+}
+.viewed span{
+    background-color: rgba(128, 128, 128, 0.185);
+}
